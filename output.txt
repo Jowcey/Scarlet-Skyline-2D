@@ -1,0 +1,39 @@
+WinMain running
+Checking parameters
+Calling game_preload
+Initializing engine
+Screen size: 1100,700
+Creating program window
+Creating Direct3D object
+Creating Direct3D device
+Hardware vertex processing
+Creating 2D renderer
+Init input system
+Calling game_init(007C16DE)
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine init succeeded
+Core timer started: 0
+Entering while loop
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Engine::addEntity: received new entity
+Exiting while loop
+Total run time: 3967
+Freeing game resources
+Shutting down engine
